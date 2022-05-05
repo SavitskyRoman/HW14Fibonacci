@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">HW14Fibonacci</string>
+    <string name="text" />
+    <string name="fibonacci_by_loop">Fibonacci by loop</string>
+    <string name="fibonacci_by_recursion">Fibonacci by recursion</string>
+    <string name="textview" />
 </resources>
